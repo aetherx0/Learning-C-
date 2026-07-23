@@ -1,7 +1,6 @@
 #include <iostream>
 int main(){
-    std::cout<<"Hello World!"<<std::endl;
-    std::cout<<"I M AMEYA!!!"<<std::endl;
-    std::cout<<"i m learning c++"<<std::endl;
+    std::cout<<"this is my first program!"<<std::endl;
+    std::cout<<"enter a integer";
     return 0;
 }
